@@ -55,7 +55,7 @@ section.imagem1 {
 section.imagem2 {
   background: url("../imagens/background002.jpg") right center no-repeat fixed;
   background-size: cover;
-  box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.229);
+  box-shadow: inset 4px 4px 5px rgba(0, 0, 0, 0.229);
 }
 p#imageparag {
   background-color: rgba(0, 0, 0, 0.564);
