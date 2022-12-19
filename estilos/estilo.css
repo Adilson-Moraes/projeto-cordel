@@ -45,7 +45,7 @@ section {
   font-family: var(--fonte-2);
   line-height: 2em;
   font-size: 3.5vw;
-  padding: 15vh 0px 15vh 30px;
+  padding: 10vh 0px 10vh 30px;
 }
 section.imagem1 {
   background: url("../imagens/background001.jpg") right center no-repeat fixed;
@@ -65,7 +65,7 @@ p#imageparag {
   display: inline-block;
 }
 p {
-  padding: 5vh;
+  padding-bottom: 5vh;
 }
 
 footer {
