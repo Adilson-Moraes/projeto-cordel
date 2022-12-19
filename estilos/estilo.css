@@ -20,6 +20,7 @@ header {
   background-color: black;
   color: white;
   text-align: center;
+  font-variant: small-caps;
   padding-top: 50px;
 }
 header > h1 {
@@ -32,12 +33,14 @@ header > p {
   padding-top: 0px;
   font-size: 1em;
 }
-#link-milton {
+#link-milton,
+#link-footer {
   text-decoration: none;
   color: white;
   font-weight: bolder;
 }
-#link-milton:hover {
+#link-milton:hover,
+#link-footer:hover {
   text-decoration: underline;
 }
 
@@ -45,7 +48,7 @@ section {
   font-family: var(--fonte-2);
   line-height: 2em;
   font-size: 3.5vw;
-  padding: 10vh 0px 10vh 30px;
+  padding: 10vh 0px 10vh 5vh;
 }
 section.imagem1 {
   background: url("../imagens/background001.jpg") right center no-repeat fixed;
